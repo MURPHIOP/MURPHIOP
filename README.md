@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm SHREYAN!
 
-<!--
-**MURPHIOP/MURPHIOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 About Me
+I'm a passionate developer with a deep love for coding and creating innovative solutions. My expertise spans across various programming languages and technologies, and I'm always eager to learn and explore new tools. 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C, Python, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, AWS, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I Do
+- **Open Source Contributor:** Actively contributing to various open-source projects and collaborating with the community.
+- **Full-Stack Development:** Building and maintaining web applications from front-end to back-end.
+- **Problem Solver:** Enjoy tackling challenging problems and finding efficient solutions.
+
+## 📫 How to Reach Me
+- **GitHub:** [github.com/MURPHIOP](https://github.com/MURPHIOP)
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Email:** mitrashreyan2005@gmail.com
+
+## ✨ Fun Fact
+When I'm not coding, you can find me exploring nature, reading sci-fi novels, or experimenting with new recipes in the kitchen!
+
+specially GAMING!!!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical)
