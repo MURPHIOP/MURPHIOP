@@ -19,7 +19,7 @@ I'm a passionate developer with a deep love for coding and creating innovative s
 
 ### 🔥 GitHub Stats & Activity
 
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical)
 
