@@ -26,4 +26,10 @@ When I'm not coding, you can find me exploring nature, reading sci-fi novels, or
 
 specially GAMING!!!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical)
+### 🔥 GitHub Stats & Activity
+
+![SHREYAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=radical)](https://git.io/streak-stats)
