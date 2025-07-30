@@ -16,6 +16,16 @@ I'm a passionate developer with a deep love for coding and creating innovative s
 - **Full-Stack Development:** Building and maintaining web applications from front-end to back-end.
 - **Problem Solver:** Enjoy tackling challenging problems and finding efficient solutions.
 
+
+### 🔥 GitHub Stats & Activity
+
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP))
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=radical)](https://git.io/streak-stats)
+
+
 ## 📫 How to Reach Me
 - **GitHub:** [github.com/MURPHIOP](https://github.com/MURPHIOP)
 - **LinkedIn:** [linkedin.com/in/shreyan-mitra-090114228](https://linkedin.com/in/shreyan-mitra-090114228)
@@ -26,11 +36,4 @@ When I'm not coding, you can find me exploring nature, reading sci-fi novels, or
 
 specially GAMING!!!
 
-### 🔥 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=radical)](https://git.io/streak-stats)
 
