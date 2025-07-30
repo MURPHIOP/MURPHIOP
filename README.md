@@ -19,7 +19,7 @@ I'm a passionate developer with a deep love for coding and creating innovative s
 
 ### 🔥 GitHub Stats & Activity
 
-![SHREYAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![SHREYAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical)
 
