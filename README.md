@@ -80,8 +80,7 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MURPHIOP&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MURPHIOP&theme=radical&utcOffset=8" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MURPHIOP&theme=radical&hide_border=true" width="80%" />
 </div>
 
 <br>
