@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MURPHIOP&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MURPHIOP&theme=onedark&no-frame=true&margin-w=4&margin-h=4" />
   </a>
 </div>
 
@@ -49,6 +49,12 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 </div>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,dart,js,java,flutter,react,tensorflow,opencv,nodejs,aws,firebase,git,linux,mysql,mongodb&perline=8&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
 
 | **Core** | **Frontend** | **AI / ML** | **Backend & Ops** |
 | :---: | :---: | :---: | :---: |
@@ -69,12 +75,12 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=tokyonight&hide_border=true&background=000000&ring=7607b3&fire=7607b3&currStreakLabel=7607b3" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=radical&hide_border=true" width="80%" />
 </div>
 
 <br>
