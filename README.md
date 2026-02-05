@@ -36,6 +36,11 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 * **7SENSITIVE Esports:** Founder & Director, bridging data analytics with competitive gaming.
 * **Project MOKSHA:** Creating a procedural world-building engine for narrative generation.
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=Project-MOKSHA&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=7SENSITIVE-Esports&theme=radical&hide_border=true" />
+</div>
 <br>
 
 <div align="center">
