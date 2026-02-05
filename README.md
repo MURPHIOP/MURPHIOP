@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0b2e,100:7607b3&height=320&section=header&text=SHREYAN%20MITRA&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Esports%20Director%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7607b3&height=300&section=header&text=SHREYAN%20MITRA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Esports%20Director%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=23e6f6&center=true&vCenter=true&width=800&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Loading+Project+MOKSHA+Assets...;Optimizing+TensorFlow+Models...;Deploying+Flutter+Architecture...;ACCESS+GRANTED." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=23e6f6&center=true&vCenter=true&width=1000&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Loading+Project+MOKSHA+Assets...;Optimizing+TensorFlow+Models...;Deploying+Flutter+Architecture...;ACCESS+GRANTED." alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,19 +18,23 @@
 
 ### 🧠 The Core Philosophy
 
-<img align="right" src="https://media.giphy.com/media/QssGEmpjCS4Sk/giphy.gif" width="150px">
-
 My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI**. As a CSE (AIML) Engineer, I don't just write code; I design intelligent ecosystems that evolve.
 
 * **⚡ Atomic Architecture:** Deconstructing complex UI/UX into pixel-perfect, reusable Flutter/React components.
-* **🔮 Predictive Logic:** Utilizing **Python** and **TensorFlow** to build backends that anticipate user needs before they happen.
-* **🚀 Edge Optimization:** Pushing **C++** and **OpenCV** to their limits on embedded hardware (Raspberry Pi) for real-time computer vision.
+* **🔮 Predictive Logic:** Utilizing **Python** and **TensorFlow** to build backends that anticipate user needs.
+* **🚀 Edge Optimization:** Pushing **C++** and **OpenCV** to their limits on embedded hardware (Raspberry Pi).
 
 ### 🔭 Active Deployments
 
 * **Project PRISM-CREDIT:** Lead Architect for a patent-aware FinTech super-app.
 * **7SENSITIVE Esports:** Founder & Director, bridging data analytics with competitive gaming.
 * **Project MOKSHA:** Creating a procedural world-building engine for narrative generation.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=40&section=footer&text=SYSTEM%20STATUS:%20ONLINE%20//%20TARGET:%20INNOVATION%20//%20MODE:%20LEGENDARY&fontSize=20&fontColor=23e6f6&animation=fadeIn&fontAlignY=50" width="100%"/>
+</div>
 
 ---
 
@@ -49,18 +53,18 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 ### 📡 Mission Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MURPHIOP&bg_color=0D1117&color=7607b3&line=7607b3&point=FFFFFF&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MURPHIOP&bg_color=000000&color=7607b3&line=7607b3&point=FFFFFF&hide_border=true&area=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=tokyonight&hide_border=true&background=0D1117&ring=7607b3&fire=7607b3&currStreakLabel=7607b3" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=tokyonight&hide_border=true&background=000000&ring=7607b3&fire=7607b3&currStreakLabel=7607b3" width="80%" />
 </div>
 
 ---
