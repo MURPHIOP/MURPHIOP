@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=23e6f6&center=true&vCenter=true&width=1000&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Loading+Project+MOKSHA+Assets...;Optimizing+TensorFlow+Models...;Deploying+Flutter+Architecture...;ACCESS+GRANTED." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=23e6f6&center=true&vCenter=true&width=1000&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Loading+Project+MOKSHA+Assets...;Optimizing+TensorFlow+Models...;Deploying+Flutter+Architecture...;ACCESS+GRANTED." alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,11 +36,6 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 * **7SENSITIVE Esports:** Founder & Director, bridging data analytics with competitive gaming.
 * **Project MOKSHA:** Creating a procedural world-building engine for narrative generation.
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=Project-MOKSHA&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=7SENSITIVE-Esports&theme=radical&hide_border=true" />
-</div>
 <br>
 
 <div align="center">
@@ -85,7 +80,8 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=radical&hide_border=true" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=MURPHIOP&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MURPHIOP&theme=radical&utcOffset=8" height="180" />
 </div>
 
 <br>
