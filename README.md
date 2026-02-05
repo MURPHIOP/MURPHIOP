@@ -14,9 +14,11 @@
   </a>
 </div>
 
----
+<br>
 
-### 🧠 The Core Philosophy
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=CORE%20PHILOSOPHY&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
+</div>
 
 My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI**. As a CSE (AIML) Engineer, I don't just write code; I design intelligent ecosystems that evolve.
 
@@ -24,21 +26,27 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 * **🔮 Predictive Logic:** Utilizing **Python** and **TensorFlow** to build backends that anticipate user needs.
 * **🚀 Edge Optimization:** Pushing **C++** and **OpenCV** to their limits on embedded hardware (Raspberry Pi).
 
-### 🔭 Active Deployments
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=ACTIVE%20DEPLOYMENTS&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
+</div>
 
 * **Project PRISM-CREDIT:** Lead Architect for a patent-aware FinTech super-app.
 * **7SENSITIVE Esports:** Founder & Director, bridging data analytics with competitive gaming.
 * **Project MOKSHA:** Creating a procedural world-building engine for narrative generation.
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=40&section=footer&text=SYSTEM%20STATUS:%20ONLINE%20//%20TARGET:%20INNOVATION%20//%20MODE:%20LEGENDARY&fontSize=20&fontColor=23e6f6&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=40&section=footer&text=SYSTEM%20STATUS:%20ONLINE%20//%20TARGET:%20INNOVATION%20//%20MODE:%20LEGENDARY&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 </div>
 
----
+<br>
 
-### ⚔️ The Tech Arsenal
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=THE%20ARSENAL&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -48,9 +56,11 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 
 </div>
 
----
+<br>
 
-### 📡 Mission Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=MISSION%20ANALYTICS&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MURPHIOP&bg_color=000000&color=7607b3&line=7607b3&point=FFFFFF&hide_border=true&area=true" width="100%" />
@@ -59,17 +69,19 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&cache_seconds=86400" height="180" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MURPHIOP&theme=tokyonight&hide_border=true&background=000000&ring=7607b3&fire=7607b3&currStreakLabel=7607b3" width="80%" />
 </div>
 
----
+<br>
 
-### 🔌 Uplink
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=SECURE%20UPLINK&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/shreyan-mitra-090114228">
