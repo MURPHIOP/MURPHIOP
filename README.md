@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7607b3&height=300&section=header&text=SHREYAN%20MITRA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Esports%20Director%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7607b3&height=300&section=header&text=SHREYAN%20MITRA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Engineer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=23e6f6&center=true&vCenter=true&width=1000&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Loading+Project+MOKSHA+Assets...;Optimizing+TensorFlow+Models...;Deploying+Flutter+Architecture...;ACCESS+GRANTED." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=23e6f6&center=true&vCenter=true&width=1000&lines=System.out.println(%22Initializing+Neural+Link...%22)%3B;Analyzing+Credit+Risk+Models...;Optimizing+ROCm+Hardware+Bridges...;Deploying+AvaaniAI+Neural+Nodes...;ACCESS+GRANTED." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=MURPHIOP&theme=monokai" />
+    <img src="https://github-trophies.vercel.app/?username=MURPHIOP&theme=monokai&margin-w=15" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 
 * **⚡ Atomic Architecture:** Deconstructing complex UI/UX into pixel-perfect, reusable Flutter/React components.
 * **🔮 Predictive Logic:** Utilizing **Python** and **TensorFlow** to build backends that anticipate user needs.
-* **🚀 Edge Optimization:** Pushing **C++** and **OpenCV** to their limits on embedded hardware (Raspberry Pi).
+* **🚀 Hardware Acceleration:** Pushing **C++** and **ROCm** to their limits for high-performance AI deployment.
 
 <br>
 
@@ -32,15 +32,29 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7607b3&height=50&section=header&text=ACTIVE%20DEPLOYMENTS&fontSize=25&fontColor=23e6f6&fontAlignY=50&animation=fadeIn" width="100%"/>
 </div>
 
-* **Project PRISM-CREDIT:** Lead Architect for a patent-aware FinTech super-app.
-* **7SENSITIVE Esports:** Founder & Director, bridging data analytics with competitive gaming.
-* **Project MOKSHA:** Creating a procedural world-building engine for narrative generation.
+* **Project PRISM-CREDIT:** Lead Architect for a patent-aware FinTech credit risk super-app.
+* **ROCm Bridge:** High-performance hardware optimization for AMD Slingshot Hackathon 2026.
+* **AvaaniAI:** Next-gen neural interface for intelligent user interactions.
+* **IT Farmer:** Specialized digital ecosystem for agricultural management.
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=Project-MOKSHA&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=7SENSITIVE-Esports&theme=radical&hide_border=true" />
+  <a href="https://github.com/MURPHIOP/credit_risk_app_new">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=credit_risk_app_new&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/MURPHIOP/rocm-bridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=rocm-bridge&theme=radical&show_owner=true" />
+  </a>
+  <br>
+  <a href="https://github.com/MURPHIOP/AvaaniAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=AvaaniAI&theme=radical&show_owner=true" />
+  </a>
+  <br>
+  <a href="https://github.com/MURPHIOP/ITFarmer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MURPHIOP&repo=ITFarmer&theme=radical&show_owner=true" />
+  </a>
 </div>
+
 <br>
 
 <div align="center">
@@ -63,7 +77,7 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 
 | **Core** | **Frontend** | **AI / ML** | **Backend & Ops** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <br> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <br> <img src="https://img.shields.io/badge/ROCm-black?style=for-the-badge&logo=amd&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> |
 
 </div>
 
@@ -80,8 +94,8 @@ My engineering doctrine is built on **Hyper-Scalability** and **User-Centric AI*
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MURPHIOP&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURPHIOP&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" />
 </div>
 
 <div align="center">
