@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/MURPHIOP?v=1788093083880"
+    src="https://gitascii.com/api/MURPHIOP?v=1788094171759"
     alt="GitAscii Widget"
     width="100%"
   />
