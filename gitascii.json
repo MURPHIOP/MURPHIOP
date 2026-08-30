@@ -5239,26 +5239,6 @@
       "instanceId": "widget_1788091561494_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 1950
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 2
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1788091561494_4"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
@@ -5294,7 +5274,7 @@
       "name": "Pokemon-card Widget",
       "position": {
         "x": 250,
-        "y": 1258
+        "y": 1320
       },
       "size": {
         "width": 300,
@@ -5476,7 +5456,7 @@
       },
       "size": {
         "width": 800,
-        "height": 200
+        "height": 192
       },
       "config": {},
       "locked": false,
@@ -5484,21 +5464,127 @@
       "zIndex": 11
     },
     {
-      "instanceId": "widget_1788092206921",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
+      "instanceId": "widget_1788092682435",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 1684
+        "y": 2133
       },
       "size": {
         "width": 800,
-        "height": 250
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "discord",
+          "instagram",
+          "email",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/MURPHIOP",
+          "linkedin": "https://linkedin.com/in/shreyan-mitra-090114228",
+          "instagram": "https://www.instagram.com/ig_murphi/",
+          "email": "mailto:mitrashreyan2005@gmail.com",
+          "website": "https://git.io/typing-svg",
+          "discord": "https://discord.com/users/murphi_op"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788092710701",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1747
+      },
+      "size": {
+        "width": 800,
+        "height": 30
       },
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 12
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788092788969",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 1224
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788092872451",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 2261
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788092914469",
+      "widgetId": "winxp-minesweeper",
+      "name": "Winxp-minesweeper Widget",
+      "position": {
+        "x": 10,
+        "y": 1786
+      },
+      "size": {
+        "width": 780,
+        "height": 340
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1788093039418",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 0,
+        "y": 2497
+      },
+      "size": {
+        "width": 500,
+        "height": 210
+      },
+      "config": {
+        "quoteType": "random"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
     }
   ],
   "globalStyles": {
