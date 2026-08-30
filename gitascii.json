@@ -5273,7 +5273,7 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 250,
+        "x": 451,
         "y": 1320
       },
       "size": {
@@ -5568,20 +5568,18 @@
       "zIndex": 15
     },
     {
-      "instanceId": "widget_1788093039418",
-      "widgetId": "readme-quotes",
-      "name": "Readme-quotes Widget",
+      "instanceId": "widget_1788094115974",
+      "widgetId": "gitfest-lineup",
+      "name": "Gitfest-lineup Widget",
       "position": {
-        "x": 0,
-        "y": 2497
+        "x": 39,
+        "y": 1320
       },
       "size": {
-        "width": 500,
-        "height": 210
+        "width": 319,
+        "height": 411
       },
-      "config": {
-        "quoteType": "random"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 16
